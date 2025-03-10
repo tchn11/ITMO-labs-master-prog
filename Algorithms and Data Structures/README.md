@@ -23,5 +23,7 @@
 + [H4.3.C Максимальное произведение трех чисел](https://github.com/tchn11/ITMO-labs-master-prog/blob/main/Algorithms%20and%20Data%20Structures/tasks/max_mult_of_3.cpp)
 + [H4.3.D Максимальное произведение четырех чисел](https://github.com/tchn11/ITMO-labs-master-prog/blob/main/Algorithms%20and%20Data%20Structures/tasks/max_mult_of_4.cpp)
 
++ [Вердикты системы](https://github.com/tchn11/ITMO-labs-master-prog/tree/main/Algorithms%20and%20Data%20Structures/tasks/verdicts)
+
 ### Курсовой проект
 + [Курсовая работа](https://github.com/tchn11/ITMO-labs-master-prog/tree/main/Algorithms%20and%20Data%20Structures/course%20work)
