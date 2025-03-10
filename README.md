@@ -1,2 +1,4 @@
-# ITMO-labs-master-prog
-Yet another labs
+# 1 курс
+### Algorithms and Data Structures
++ [Задачи]()
++ [Курсовой проект]()
